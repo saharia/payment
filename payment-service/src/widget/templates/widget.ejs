@@ -1,0 +1,16 @@
+
+<div id="jsWidget"></div>
+
+
+
+<script src="<%= data.scriptPath %>"></script>
+<script>
+  window.onload = () => {
+    const paymentGateways = <%- JSON.stringify(data.paymentGateways) %>;
+    const paymentData = <%- JSON.stringify(data.paymentData) %>;
+    paymentService.setData(paymentData);
+    // console.log(paymentService.data);
+    paymentService.setConfig({ paymentGateways })
+    paymentService.render();
+  }
+</script>

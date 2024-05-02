@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/common/constant/database/index.ts"],"sourcesContent":["\nexport * from './table-name';\nexport { OrmTablePrefix } from './orm-table.prefix';"],"names":["OrmTablePrefix"],"rangeMappings":";;;;;;;;;;;","mappings":";;;;+BAESA;;;eAAAA,8BAAc;;;qBADT;gCACiB"}

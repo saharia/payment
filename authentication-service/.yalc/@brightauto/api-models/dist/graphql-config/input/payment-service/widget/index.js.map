@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../src/graphql-config/input/payment-service/widget/index.ts"],"sourcesContent":["import { CreateWidgetInput } from \"./create-widget.input\";\n\nexport {\n  CreateWidgetInput\n}"],"names":["CreateWidgetInput"],"rangeMappings":";;;;;;;;;;","mappings":";;;;+BAGEA;;;eAAAA,oCAAiB;;;mCAHe"}

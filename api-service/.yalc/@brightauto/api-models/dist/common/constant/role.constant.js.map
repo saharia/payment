@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/common/constant/role.constant.ts"],"sourcesContent":["\nexport const roles = {\n  superadmin: \"superadmin\",\n  admin: \"admin\",\n  client: \"client\"\n}"],"names":["roles","superadmin","admin","client"],"rangeMappings":";;;;;;;;;;;;;;","mappings":";;;;+BACaA;;;eAAAA;;;AAAN,MAAMA,QAAQ;IACnBC,YAAY;IACZC,OAAO;IACPC,QAAQ;AACV"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/graphql-config/scalar/scalar.module.ts"],"sourcesContent":["import { Module } from '@nestjs/common';\n\n@Module({})\nexport class ScalarModule {}\n"],"names":["ScalarModule","Module"],"rangeMappings":";;;;;;;;;;;;;;;;;;;;;","mappings":";;;;+BAGaA;;;eAAAA;;;wBAHU;;;;;;;AAGhB,IAAA,AAAMA,eAAN,MAAMA;AAAc;AAAdA;IADZC,IAAAA,cAAM,EAAC,CAAC;GACID"}

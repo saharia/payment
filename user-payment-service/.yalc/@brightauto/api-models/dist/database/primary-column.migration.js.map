@@ -1,0 +1,1 @@
+{"version":3,"file":"primary-column.migration.js","sourceRoot":"","sources":["../../src/database/primary-column.migration.ts"],"names":[],"mappings":";;;AACa,QAAA,cAAc,GAAG;IAC5B;QACE,IAAI,EAAE,IAAI;QACV,IAAI,EAAE,SAAS;QACf,SAAS,EAAE,IAAI;QACf,UAAU,EAAE,KAAK;KAClB;CACF,CAAA"}

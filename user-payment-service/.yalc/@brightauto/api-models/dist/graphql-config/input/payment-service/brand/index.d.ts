@@ -1,0 +1,12 @@
+import { CreateBrandPaymentGatewayInput } from "./create-brand-payment-gateway-input";
+import { CreateBrandPaymentGatewayPlanInput } from "./create-brand-payment-gateway-plan-input";
+import { CreateBrandInput } from "./create-brand.input";
+import { CreatePaymentGatewayKeyInput } from "./create-payment-gateway-key-input";
+import { FindAllBrandInput } from "./find-all-brand.input";
+import { FindBrandInput } from "./find-brand.input";
+import { RemoveBrandInput } from "./remove-brand.input";
+import { UpdateBrandPaymentGatewayInput } from "./update-brand-payment-gateway-input";
+import { UpdateBrandPaymentGatewayPlanInput } from "./update-brand-payment-gateway-plan-input";
+import { UpdateBrandInput } from "./update-brand.input";
+import { UpdatePaymentGatewayKeyInput } from "./update-payment-gateway-key-input";
+export { CreateBrandPaymentGatewayInput, CreateBrandPaymentGatewayPlanInput, CreateBrandInput, CreatePaymentGatewayKeyInput, FindAllBrandInput, FindBrandInput, RemoveBrandInput, UpdateBrandPaymentGatewayInput, UpdateBrandPaymentGatewayPlanInput, UpdateBrandInput, UpdatePaymentGatewayKeyInput };

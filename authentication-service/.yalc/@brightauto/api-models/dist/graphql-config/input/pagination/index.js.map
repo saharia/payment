@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/graphql-config/input/pagination/index.ts"],"sourcesContent":["import { PaginationInput } from \"./pagination.input\";\n\nexport {\n  PaginationInput\n}"],"names":["PaginationInput"],"rangeMappings":";;;;;;;;;;","mappings":";;;;+BAGEA;;;eAAAA,gCAAe;;;iCAHe"}

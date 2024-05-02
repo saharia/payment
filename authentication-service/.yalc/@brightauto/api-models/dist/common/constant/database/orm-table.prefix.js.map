@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/common/constant/database/orm-table.prefix.ts"],"sourcesContent":["\nexport const OrmTablePrefix = {\n  prefix: 'tbl_',\n};"],"names":["OrmTablePrefix","prefix"],"rangeMappings":";;;;;;;;;;;;","mappings":";;;;+BACaA;;;eAAAA;;;AAAN,MAAMA,iBAAiB;IAC5BC,QAAQ;AACV"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"roles.constant.js","sourceRoot":"","sources":["../../../../src/common/constant/role/roles.constant.ts"],"names":[],"mappings":";;;AACa,QAAA,QAAQ,GAAG;IACtB,UAAU,EAAE;QACV,EAAE,EAAE,sCAAsC;QAC1C,IAAI,EAAE,YAAY;KACnB;IACD,KAAK,EAAE;QACL,EAAE,EAAE,sCAAsC;QAC1C,IAAI,EAAE,OAAO;KACd;IACD,MAAM,EAAE;QACN,EAAE,EAAE,sCAAsC;QAC1C,IAAI,EAAE,QAAQ;KACf;CACF,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/graphql-config/input/upload-service/file-upload-error.input.ts"],"sourcesContent":["\nexport class FileUploadErrorInput {\n\n  message: string;\n  \n}\n"],"names":["FileUploadErrorInput"],"rangeMappings":";;;;;;;;;;;","mappings":";;;;+BACaA;;;eAAAA;;;AAAN,IAAA,AAAMA,uBAAN,MAAMA;AAIb"}

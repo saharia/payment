@@ -1,0 +1,1 @@
+{"version":3,"file":"loggedin-user.decorator.js","sourceRoot":"","sources":["../../../src/auth-micro-service/decorators/loggedin-user.decorator.ts"],"names":[],"mappings":";;;AAAA,2CAAwE;AAE3D,QAAA,YAAY,GAAG,IAAA,6BAAoB,EAC9C,CAAC,IAAa,EAAE,OAAyB,EAAE,EAAE;IAC3C,OAAO,OAAO,CAAC,WAAW,EAAE,CAAC,OAAO,EAAE,CAAC,MAAM,CAAC,CAAC;AACjD,CAAC,CACF,CAAC"}

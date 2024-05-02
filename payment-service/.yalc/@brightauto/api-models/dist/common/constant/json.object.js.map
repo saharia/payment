@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/common/constant/json.object.ts"],"sourcesContent":["export class JSONObject {}"],"names":["JSONObject"],"rangeMappings":";;;;;;;;;;;","mappings":";;;;+BAAaA;;;eAAAA;;;AAAN,IAAA,AAAMA,aAAN,MAAMA;AAAY"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/database/database.module.ts"],"sourcesContent":["import { Module } from '@nestjs/common';\n\n@Module({})\nexport class DatabaseModule {}\n"],"names":["DatabaseModule","Module"],"rangeMappings":";;;;;;;;;;;;;;;;;;;;;","mappings":";;;;+BAGaA;;;eAAAA;;;wBAHU;;;;;;;AAGhB,IAAA,AAAMA,iBAAN,MAAMA;AAAgB;AAAhBA;IADZC,IAAAA,cAAM,EAAC,CAAC;GACID"}

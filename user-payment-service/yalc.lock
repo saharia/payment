@@ -1,0 +1,11 @@
+{
+  "version": "v1",
+  "packages": {
+    "@brightauto/api-models": {
+      "version": "1.2.8",
+      "signature": "275ffa5ab5e6fcaf77b7b5a5c8860ede",
+      "file": true,
+      "replaced": "^1.2.8"
+    }
+  }
+}

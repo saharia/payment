@@ -1,0 +1,24 @@
+type OrganizationCategory {
+  # Example field (placeholder)
+  exampleField: Int
+}
+
+input CreateOrganizationCategoryInput {
+  # Example field (placeholder)
+  exampleField: Int
+}
+
+input UpdateOrganizationCategoryInput {
+  id: Int!
+}
+
+type Query {
+  organizationCategory: [OrganizationCategory]!
+  organizationCategory(id: Int!): OrganizationCategory
+}
+
+type Mutation {
+  createOrganizationCategory(createOrganizationCategoryInput: CreateOrganizationCategoryInput!): OrganizationCategory!
+  updateOrganizationCategory(updateOrganizationCategoryInput: UpdateOrganizationCategoryInput!): OrganizationCategory!
+  removeOrganizationCategory(id: Int!): OrganizationCategory
+}
